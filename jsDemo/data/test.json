@@ -1,0 +1,133 @@
+{
+    "znumber ": "",
+    "type": "",
+    "title": "",
+    "titlecomment": "",
+    "status": "",
+    "anouncedate": "",
+    "author": "",
+    "attorney": "",
+    "reviewer": "",
+    "createdon": "",
+    "modifiedon": "",
+    "submittedon": "",
+    "approvedby": "",
+    "post": "",
+    "map": "",
+    "source": "",
+    "reqpostdate": "",
+    "projectleader": "",
+    "previousznumber": "",
+    "cmsnumber": "",
+    "fromcms": 1,
+    "comments": "",
+    "saaslanguages": [
+        {
+            "language": "en_US",
+            "needed": 1,
+            "translated": 0,
+            "posted": 0
+        },
+        {
+            "language":"zh_CN" ,
+            "needed": 1,
+            "translated": 0,
+            "posted": 0
+        },
+        {
+            "language":"zh_TW" ,
+            "needed": 1,
+            "translated": 0,
+            "posted": 0
+        },
+        {
+            "language":"cs_CZ" ,
+            "needed": 1,
+            "translated": 0,
+            "posted": 0
+        },
+        {
+            "language":"fr_FR" ,
+            "needed": 1,
+            "translated": 0,
+            "posted": 0
+        },
+        {
+            "language":"de_DE" ,
+            "needed": 1,
+            "translated": 0,
+            "posted": 0
+        },
+        {
+            "language":"el_GR" ,
+            "needed": 1,
+            "translated": 0,
+            "posted": 0
+        },
+        {
+            "language":"id_ID" ,
+            "needed": 1,
+            "translated": 0,
+            "posted": 0
+        },
+        {
+            "language":"it_IT" ,
+            "needed": 1,
+            "translated": 0,
+            "posted": 0
+        },
+        {
+            "language":"ja_JP" ,
+            "needed": 1,
+            "translated": 0,
+            "posted": 0
+        },
+        {
+            "language":"ko_KR" ,
+            "needed": 1,
+            "translated": 0,
+            "posted": 0
+        },
+        {
+            "language":"lt_LT" ,
+            "needed": 1,
+            "translated": 0,
+            "posted": 0
+        },
+        {
+            "language":"pl_PL" ,
+            "needed": 1,
+            "translated": 0,
+            "posted": 0
+        },
+        {
+            "language":"pt_BR" ,
+            "needed": 1,
+            "translated": 0,
+            "posted": 0
+        },
+        {
+            "language":"ru_RU" ,
+            "needed": 1,
+            "translated": 0,
+            "posted": 0
+        },
+        {
+            "language":"sl_SI" ,
+            "needed": 1,
+            "translated": 0,
+            "posted": 0
+        },
+        {
+            "language":"es_ES" ,
+            "needed": 1,
+            "translated": 0,
+            "posted": 0
+        },
+        {
+            "language":"tr_TR" ,
+            "needed": 1,
+            "translated": 0,
+            "posted": 0
+        }]
+    }
